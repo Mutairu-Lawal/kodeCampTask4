@@ -100,7 +100,7 @@ img {
 
 .hero-container {
   padding: 4rem 0px 0px;
-  background-image: url(../images/new_imgs/hero-img.jpg);
+  background-image: url(../images/new_imgs/hero-img.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 68% 58px;
@@ -145,16 +145,16 @@ img {
 }
 
 .img1 {
-  background-image: url(../images/new_imgs/img1.jpg);
+  background-image: url(../images/new_imgs/img1.webp);
 }
 .img2 {
-  background-image: url(../images/new_imgs/img2.jpg);
+  background-image: url(../images/new_imgs/img2.webp);
 }
 .img3 {
-  background-image: url(../images/new_imgs/img3.png);
+  background-image: url(../images/new_imgs/img3.webp);
 }
 .img4 {
-  background-image: url(../images/new_imgs/img4.jpg);
+  background-image: url(../images/new_imgs/img4.webp);
 }
 
 .future-content {
